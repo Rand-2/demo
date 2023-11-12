@@ -1,3 +1,3 @@
 # demo
-Just checking out Git-hub repo
+Just checking out Git-hub repository.
 Author-KK
